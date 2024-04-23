@@ -1,0 +1,15 @@
+/Users/santiago/Projects/CajeroAutomatico/CajeroAutomatico/bin/Debug/net7.0/CajeroAutomatico
+/Users/santiago/Projects/CajeroAutomatico/CajeroAutomatico/bin/Debug/net7.0/CajeroAutomatico.deps.json
+/Users/santiago/Projects/CajeroAutomatico/CajeroAutomatico/bin/Debug/net7.0/CajeroAutomatico.runtimeconfig.json
+/Users/santiago/Projects/CajeroAutomatico/CajeroAutomatico/bin/Debug/net7.0/CajeroAutomatico.dll
+/Users/santiago/Projects/CajeroAutomatico/CajeroAutomatico/bin/Debug/net7.0/CajeroAutomatico.pdb
+/Users/santiago/Projects/CajeroAutomatico/CajeroAutomatico/obj/Debug/net7.0/CajeroAutomatico.csproj.AssemblyReference.cache
+/Users/santiago/Projects/CajeroAutomatico/CajeroAutomatico/obj/Debug/net7.0/CajeroAutomatico.GeneratedMSBuildEditorConfig.editorconfig
+/Users/santiago/Projects/CajeroAutomatico/CajeroAutomatico/obj/Debug/net7.0/CajeroAutomatico.AssemblyInfoInputs.cache
+/Users/santiago/Projects/CajeroAutomatico/CajeroAutomatico/obj/Debug/net7.0/CajeroAutomatico.AssemblyInfo.cs
+/Users/santiago/Projects/CajeroAutomatico/CajeroAutomatico/obj/Debug/net7.0/CajeroAutomatico.csproj.CoreCompileInputs.cache
+/Users/santiago/Projects/CajeroAutomatico/CajeroAutomatico/obj/Debug/net7.0/CajeroAutomatico.dll
+/Users/santiago/Projects/CajeroAutomatico/CajeroAutomatico/obj/Debug/net7.0/refint/CajeroAutomatico.dll
+/Users/santiago/Projects/CajeroAutomatico/CajeroAutomatico/obj/Debug/net7.0/CajeroAutomatico.pdb
+/Users/santiago/Projects/CajeroAutomatico/CajeroAutomatico/obj/Debug/net7.0/CajeroAutomatico.genruntimeconfig.cache
+/Users/santiago/Projects/CajeroAutomatico/CajeroAutomatico/obj/Debug/net7.0/ref/CajeroAutomatico.dll

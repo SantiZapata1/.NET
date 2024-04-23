@@ -1,0 +1,15 @@
+/Users/santiago/Projects/EstructurasDecision/EstructurasDecision/bin/Debug/net7.0/EstructurasDecision
+/Users/santiago/Projects/EstructurasDecision/EstructurasDecision/bin/Debug/net7.0/EstructurasDecision.deps.json
+/Users/santiago/Projects/EstructurasDecision/EstructurasDecision/bin/Debug/net7.0/EstructurasDecision.runtimeconfig.json
+/Users/santiago/Projects/EstructurasDecision/EstructurasDecision/bin/Debug/net7.0/EstructurasDecision.dll
+/Users/santiago/Projects/EstructurasDecision/EstructurasDecision/bin/Debug/net7.0/EstructurasDecision.pdb
+/Users/santiago/Projects/EstructurasDecision/EstructurasDecision/obj/Debug/net7.0/EstructurasDecision.csproj.AssemblyReference.cache
+/Users/santiago/Projects/EstructurasDecision/EstructurasDecision/obj/Debug/net7.0/EstructurasDecision.GeneratedMSBuildEditorConfig.editorconfig
+/Users/santiago/Projects/EstructurasDecision/EstructurasDecision/obj/Debug/net7.0/EstructurasDecision.AssemblyInfoInputs.cache
+/Users/santiago/Projects/EstructurasDecision/EstructurasDecision/obj/Debug/net7.0/EstructurasDecision.AssemblyInfo.cs
+/Users/santiago/Projects/EstructurasDecision/EstructurasDecision/obj/Debug/net7.0/EstructurasDecision.csproj.CoreCompileInputs.cache
+/Users/santiago/Projects/EstructurasDecision/EstructurasDecision/obj/Debug/net7.0/EstructurasDecision.dll
+/Users/santiago/Projects/EstructurasDecision/EstructurasDecision/obj/Debug/net7.0/refint/EstructurasDecision.dll
+/Users/santiago/Projects/EstructurasDecision/EstructurasDecision/obj/Debug/net7.0/EstructurasDecision.pdb
+/Users/santiago/Projects/EstructurasDecision/EstructurasDecision/obj/Debug/net7.0/EstructurasDecision.genruntimeconfig.cache
+/Users/santiago/Projects/EstructurasDecision/EstructurasDecision/obj/Debug/net7.0/ref/EstructurasDecision.dll

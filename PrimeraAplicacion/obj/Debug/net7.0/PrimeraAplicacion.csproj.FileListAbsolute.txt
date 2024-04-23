@@ -1,0 +1,15 @@
+/Users/santiago/Projects/PrimeraAplicacion/PrimeraAplicacion/bin/Debug/net7.0/PrimeraAplicacion
+/Users/santiago/Projects/PrimeraAplicacion/PrimeraAplicacion/bin/Debug/net7.0/PrimeraAplicacion.deps.json
+/Users/santiago/Projects/PrimeraAplicacion/PrimeraAplicacion/bin/Debug/net7.0/PrimeraAplicacion.runtimeconfig.json
+/Users/santiago/Projects/PrimeraAplicacion/PrimeraAplicacion/bin/Debug/net7.0/PrimeraAplicacion.dll
+/Users/santiago/Projects/PrimeraAplicacion/PrimeraAplicacion/bin/Debug/net7.0/PrimeraAplicacion.pdb
+/Users/santiago/Projects/PrimeraAplicacion/PrimeraAplicacion/obj/Debug/net7.0/PrimeraAplicacion.csproj.AssemblyReference.cache
+/Users/santiago/Projects/PrimeraAplicacion/PrimeraAplicacion/obj/Debug/net7.0/PrimeraAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/santiago/Projects/PrimeraAplicacion/PrimeraAplicacion/obj/Debug/net7.0/PrimeraAplicacion.AssemblyInfoInputs.cache
+/Users/santiago/Projects/PrimeraAplicacion/PrimeraAplicacion/obj/Debug/net7.0/PrimeraAplicacion.AssemblyInfo.cs
+/Users/santiago/Projects/PrimeraAplicacion/PrimeraAplicacion/obj/Debug/net7.0/PrimeraAplicacion.csproj.CoreCompileInputs.cache
+/Users/santiago/Projects/PrimeraAplicacion/PrimeraAplicacion/obj/Debug/net7.0/PrimeraAplicacion.dll
+/Users/santiago/Projects/PrimeraAplicacion/PrimeraAplicacion/obj/Debug/net7.0/refint/PrimeraAplicacion.dll
+/Users/santiago/Projects/PrimeraAplicacion/PrimeraAplicacion/obj/Debug/net7.0/PrimeraAplicacion.pdb
+/Users/santiago/Projects/PrimeraAplicacion/PrimeraAplicacion/obj/Debug/net7.0/PrimeraAplicacion.genruntimeconfig.cache
+/Users/santiago/Projects/PrimeraAplicacion/PrimeraAplicacion/obj/Debug/net7.0/ref/PrimeraAplicacion.dll

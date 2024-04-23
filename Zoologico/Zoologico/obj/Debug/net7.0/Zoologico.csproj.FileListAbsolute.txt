@@ -1,0 +1,15 @@
+/Users/santiago/Projects/Zoologico/Zoologico/obj/Debug/net7.0/Zoologico.csproj.AssemblyReference.cache
+/Users/santiago/Projects/Zoologico/Zoologico/obj/Debug/net7.0/Zoologico.GeneratedMSBuildEditorConfig.editorconfig
+/Users/santiago/Projects/Zoologico/Zoologico/obj/Debug/net7.0/Zoologico.AssemblyInfoInputs.cache
+/Users/santiago/Projects/Zoologico/Zoologico/obj/Debug/net7.0/Zoologico.AssemblyInfo.cs
+/Users/santiago/Projects/Zoologico/Zoologico/obj/Debug/net7.0/Zoologico.csproj.CoreCompileInputs.cache
+/Users/santiago/Projects/Zoologico/Zoologico/bin/Debug/net7.0/Zoologico
+/Users/santiago/Projects/Zoologico/Zoologico/bin/Debug/net7.0/Zoologico.deps.json
+/Users/santiago/Projects/Zoologico/Zoologico/bin/Debug/net7.0/Zoologico.runtimeconfig.json
+/Users/santiago/Projects/Zoologico/Zoologico/bin/Debug/net7.0/Zoologico.dll
+/Users/santiago/Projects/Zoologico/Zoologico/bin/Debug/net7.0/Zoologico.pdb
+/Users/santiago/Projects/Zoologico/Zoologico/obj/Debug/net7.0/Zoologico.dll
+/Users/santiago/Projects/Zoologico/Zoologico/obj/Debug/net7.0/refint/Zoologico.dll
+/Users/santiago/Projects/Zoologico/Zoologico/obj/Debug/net7.0/Zoologico.pdb
+/Users/santiago/Projects/Zoologico/Zoologico/obj/Debug/net7.0/Zoologico.genruntimeconfig.cache
+/Users/santiago/Projects/Zoologico/Zoologico/obj/Debug/net7.0/ref/Zoologico.dll
