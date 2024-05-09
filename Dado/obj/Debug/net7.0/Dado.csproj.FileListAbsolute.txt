@@ -1,0 +1,15 @@
+/Users/santiago/Projects/Dado/Dado/obj/Debug/net7.0/Dado.csproj.AssemblyReference.cache
+/Users/santiago/Projects/Dado/Dado/obj/Debug/net7.0/Dado.GeneratedMSBuildEditorConfig.editorconfig
+/Users/santiago/Projects/Dado/Dado/obj/Debug/net7.0/Dado.AssemblyInfoInputs.cache
+/Users/santiago/Projects/Dado/Dado/obj/Debug/net7.0/Dado.AssemblyInfo.cs
+/Users/santiago/Projects/Dado/Dado/obj/Debug/net7.0/Dado.csproj.CoreCompileInputs.cache
+/Users/santiago/Projects/Dado/Dado/bin/Debug/net7.0/Dado
+/Users/santiago/Projects/Dado/Dado/bin/Debug/net7.0/Dado.deps.json
+/Users/santiago/Projects/Dado/Dado/bin/Debug/net7.0/Dado.runtimeconfig.json
+/Users/santiago/Projects/Dado/Dado/bin/Debug/net7.0/Dado.dll
+/Users/santiago/Projects/Dado/Dado/bin/Debug/net7.0/Dado.pdb
+/Users/santiago/Projects/Dado/Dado/obj/Debug/net7.0/Dado.dll
+/Users/santiago/Projects/Dado/Dado/obj/Debug/net7.0/refint/Dado.dll
+/Users/santiago/Projects/Dado/Dado/obj/Debug/net7.0/Dado.pdb
+/Users/santiago/Projects/Dado/Dado/obj/Debug/net7.0/Dado.genruntimeconfig.cache
+/Users/santiago/Projects/Dado/Dado/obj/Debug/net7.0/ref/Dado.dll
