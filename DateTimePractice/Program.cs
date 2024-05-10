@@ -1,53 +1,56 @@
-﻿DateTime fecha1 = DateTime.Now;
-Console.WriteLine(fecha1);
+﻿
+DateTime fechaActual = DateTime.Now;
+//Console.WriteLine(fechaActual);
 
 DateTime fecha2 = new DateTime(2025, 10, 10);
-Console.WriteLine(fecha2);
+//Console.WriteLine(fecha2);
 
-obtenerCantidadDias(fecha1, fecha2);
-
+//lista de enumeracion "dayOfWeek" para los dias de la semana no laborables
 List<DayOfWeek> diasNoLaborables = new List<DayOfWeek> { DayOfWeek.Saturday, DayOfWeek.Sunday };
 
+//lista de dateTime para los feriados o dias aleatorios que no se trabaja
+DateTime nueveDeJulio = new DateTime(2024,7,9);
+DateTime veinteDeOctubre = new DateTime(2024, 10, 20);
+DateTime veinteDeJunio = new DateTime(2024, 6, 20);
 
-int cantDiasLaborales = ObtenerCantidadDiasLaborales2(fecha1, fecha2, diasNoLaborables);
-
-Console.WriteLine($"\nEntre {fecha1.ToShortDateString()} y {fecha2.ToShortDateString()} hay {cantDiasLaborales} días laborales");
-
-int cantDias = 4;
-DateTime fechaResultante = sumarDiasLaborables(fecha1, cantDias, diasNoLaborables);
-//Console.WriteLine($"\nFecha inicial: {fecha1.ToLongDateString()} + \"{cantDias}\" dias es: {fechaResultante.ToLongDateString()}.");
+List<DateTime> feriados = new List<DateTime> { nueveDeJulio, veinteDeJunio, veinteDeOctubre }; 
 
 
-List<DateTime> feriados = new List<DateTime> { new DateTime(2024, 7, 9) }; // Ejemplo de feriado: 9 de julio
+//primer metodo
+int cantDias=obtenerCantidadDias(fechaActual, fecha2);
+Console.WriteLine($"\nEntre {fechaActual.ToShortDateString()} y {fecha2.ToShortDateString()} hay {cantDias} dias");
 
-DateTime fechaInicial = new DateTime(2024, 7, 1);
-int diasASumar = 10;
 
-DateTime fechaResultante2 = SumarDiasLaborables2(fechaInicial, diasASumar, diasNoLaborables, feriados);
+//segundo metodo
+int cantDiasLaborales = ObtenerCantidadDiasLaborales(fechaActual, fecha2, diasNoLaborables, feriados);
+Console.WriteLine($"\nEntre {fechaActual.ToShortDateString()} y {fecha2.ToShortDateString()} hay {cantDiasLaborales} días laborales");
 
-Console.WriteLine($"La fecha resultante es: {fechaResultante2.ToShortDateString()}");
+//tercer metodo
+DateTime fechaResultante = SumarDiasLaborables(fechaActual, 10, diasNoLaborables, feriados);
+Console.WriteLine($"La fecha resultante es: {fechaResultante.ToShortDateString()}");
 
-//Metodo para obtener cantidad de dias entre dos fechas
-static void obtenerCantidadDias(DateTime fechaInicio, DateTime fechaFin)
+
+
+//Metodo 1: Obtener cantidad de dias entre dos fechas
+static int obtenerCantidadDias(DateTime fechaInicio, DateTime fechaFin)
 {
     TimeSpan diasDiferencia = fechaFin - fechaInicio;
     int cantDias = diasDiferencia.Days;
 
-    Console.WriteLine($"\nEntre {fechaInicio.ToShortDateString()} y {fechaFin.ToShortDateString()} hay {cantDias} dias");
+    return cantDias;
 
 }
 
 
-
-//metodo para obtener cantidad de dias laborables entre dos fechas. Version 1
-static int ObtenerCantidadDiasLaborales2(DateTime fechaInicio, DateTime fechaFin, List<DayOfWeek> diasNoLaborables)
+//metodo 2: Obtener cantidad de dias laborables entre dos fechas. Version 1
+static int ObtenerCantidadDiasLaborales(DateTime fechaInicio, DateTime fechaFin, List<DayOfWeek> diasNoLaborables, List<DateTime> feriados)
 {
     int cantDiasLaborables = 0;
     DateTime fechaRef = fechaInicio;
 
     while (fechaRef <= fechaFin)
     {
-        if (!diasNoLaborables.Contains(fechaRef.DayOfWeek))
+        if (!diasNoLaborables.Contains(fechaRef.DayOfWeek) && !feriados.Contains(fechaRef.Date))
         {
             cantDiasLaborables++;
         }
@@ -58,21 +61,27 @@ static int ObtenerCantidadDiasLaborales2(DateTime fechaInicio, DateTime fechaFin
 
     return cantDiasLaborables;
 }
-static DateTime SumarDiasLaborables2(DateTime fecha, int dias, List<DayOfWeek> diasNoLaborables, List<DateTime> feriados)
+//metodo 3: sumar dias laborables a una fecha dada
+static DateTime SumarDiasLaborables(DateTime fecha, int dias, List<DayOfWeek> diasNoLaborables, List<DateTime> feriados)
 {
+    //se inicializan dos fechas con la ingresada, una para recorrer cada dia y otra para guardar la fecha final
     DateTime fechaRef = fecha;
     DateTime fechaFinal = fecha;
+
+    //este contador solo suma cuando es un dia laboral
     int diasSumados = 0;
 
     while (diasSumados < dias)
     {
         fechaRef = fechaRef.AddDays(1);
 
+        //si es un dia no laborable sale en este punto y no se ejecuta el final
         if (diasNoLaborables.Contains(fechaRef.DayOfWeek) || feriados.Contains(fechaRef.Date))
         {
             continue;
         }
 
+        //asi, esta fecha final resultara ser la cantidad de dias habiles indicados
         fechaFinal = fechaRef;
         diasSumados++;
     }
@@ -81,68 +90,3 @@ static DateTime SumarDiasLaborables2(DateTime fecha, int dias, List<DayOfWeek> d
 }
 
 
-
-static DateTime sumarDiasLaborables(DateTime fecha, int dias, List<DayOfWeek> diasNoLaborables)
-{
-    DateTime fechaRef = fecha;
-    DateTime fecha2 = fecha.AddDays(dias);
-
-    int cantDiasNoLaborables = 0;
-
-    while (fechaRef <= fecha2)
-    {
-        if (diasNoLaborables.Contains(fechaRef.DayOfWeek))
-        {
-            cantDiasNoLaborables++;
-        }
-        
-
-        fechaRef = fechaRef.AddDays(1);
-    }
-
-    DateTime fechaResultante = fecha.AddDays(dias + cantDiasNoLaborables);
-
-    if (fechaResultante.DayOfWeek == DayOfWeek.Saturday)
-    {
-        fechaResultante=fechaResultante.AddDays(2);
-
-    }
-    else if (fechaResultante.DayOfWeek == DayOfWeek.Sunday)
-    {
-        fechaResultante = fechaResultante.AddDays(1);
-
-    }
-    return fechaResultante;
-
-
-}
-
-
-/*
- //metodo para obtener cantidad de dias laborables entre dos fechas. Version 1
-static void obtenerCantidadDiasLaborales(DateTime fechaInicio, DateTime fechaFin)
-{
-    TimeSpan diasDiferencia = fechaFin - fechaInicio;
-    int cantDias = diasDiferencia.Days;
-    int cantDiasNoLaborales = 0;
-    DateTime fechaRef = fechaInicio;
-
-    for (int i = 0; i < cantDias; i++)
-    {
-        if (fechaRef.DayOfWeek == DayOfWeek.Saturday || fechaRef.DayOfWeek == DayOfWeek.Sunday)
-        {
-            cantDiasNoLaborales++;
-        }
-
-
-        fechaRef = fechaRef.AddDays(1);
-
-    }
-
-
-    int cantDiasLaborales = cantDias - cantDiasNoLaborales;
-
-
-    Console.WriteLine($"\nEntre {fechaInicio.ToShortDateString()} y {fechaFin.ToShortDateString()} hay {cantDiasLaborales} dias laborales");
-
-}*/
