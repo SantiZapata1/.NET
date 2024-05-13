@@ -1,0 +1,15 @@
+/Users/santiago/Projects/testParcial1/testParcial1/bin/Debug/net7.0/testParcial1
+/Users/santiago/Projects/testParcial1/testParcial1/bin/Debug/net7.0/testParcial1.deps.json
+/Users/santiago/Projects/testParcial1/testParcial1/bin/Debug/net7.0/testParcial1.runtimeconfig.json
+/Users/santiago/Projects/testParcial1/testParcial1/bin/Debug/net7.0/testParcial1.dll
+/Users/santiago/Projects/testParcial1/testParcial1/bin/Debug/net7.0/testParcial1.pdb
+/Users/santiago/Projects/testParcial1/testParcial1/obj/Debug/net7.0/testParcial1.csproj.AssemblyReference.cache
+/Users/santiago/Projects/testParcial1/testParcial1/obj/Debug/net7.0/testParcial1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/santiago/Projects/testParcial1/testParcial1/obj/Debug/net7.0/testParcial1.AssemblyInfoInputs.cache
+/Users/santiago/Projects/testParcial1/testParcial1/obj/Debug/net7.0/testParcial1.AssemblyInfo.cs
+/Users/santiago/Projects/testParcial1/testParcial1/obj/Debug/net7.0/testParcial1.csproj.CoreCompileInputs.cache
+/Users/santiago/Projects/testParcial1/testParcial1/obj/Debug/net7.0/testParcial1.dll
+/Users/santiago/Projects/testParcial1/testParcial1/obj/Debug/net7.0/refint/testParcial1.dll
+/Users/santiago/Projects/testParcial1/testParcial1/obj/Debug/net7.0/testParcial1.pdb
+/Users/santiago/Projects/testParcial1/testParcial1/obj/Debug/net7.0/testParcial1.genruntimeconfig.cache
+/Users/santiago/Projects/testParcial1/testParcial1/obj/Debug/net7.0/ref/testParcial1.dll
