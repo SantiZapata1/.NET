@@ -1,0 +1,15 @@
+/Users/santiago/Projects/Dado2/Dado2/bin/Debug/net7.0/Dado2
+/Users/santiago/Projects/Dado2/Dado2/bin/Debug/net7.0/Dado2.deps.json
+/Users/santiago/Projects/Dado2/Dado2/bin/Debug/net7.0/Dado2.runtimeconfig.json
+/Users/santiago/Projects/Dado2/Dado2/bin/Debug/net7.0/Dado2.dll
+/Users/santiago/Projects/Dado2/Dado2/bin/Debug/net7.0/Dado2.pdb
+/Users/santiago/Projects/Dado2/Dado2/obj/Debug/net7.0/Dado2.csproj.AssemblyReference.cache
+/Users/santiago/Projects/Dado2/Dado2/obj/Debug/net7.0/Dado2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/santiago/Projects/Dado2/Dado2/obj/Debug/net7.0/Dado2.AssemblyInfoInputs.cache
+/Users/santiago/Projects/Dado2/Dado2/obj/Debug/net7.0/Dado2.AssemblyInfo.cs
+/Users/santiago/Projects/Dado2/Dado2/obj/Debug/net7.0/Dado2.csproj.CoreCompileInputs.cache
+/Users/santiago/Projects/Dado2/Dado2/obj/Debug/net7.0/Dado2.dll
+/Users/santiago/Projects/Dado2/Dado2/obj/Debug/net7.0/refint/Dado2.dll
+/Users/santiago/Projects/Dado2/Dado2/obj/Debug/net7.0/Dado2.pdb
+/Users/santiago/Projects/Dado2/Dado2/obj/Debug/net7.0/Dado2.genruntimeconfig.cache
+/Users/santiago/Projects/Dado2/Dado2/obj/Debug/net7.0/ref/Dado2.dll
