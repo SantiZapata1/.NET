@@ -1,0 +1,15 @@
+/Users/santiago/Projects/arrayPractice/arrayPractice/obj/Debug/net7.0/arrayPractice.csproj.AssemblyReference.cache
+/Users/santiago/Projects/arrayPractice/arrayPractice/obj/Debug/net7.0/arrayPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/santiago/Projects/arrayPractice/arrayPractice/obj/Debug/net7.0/arrayPractice.AssemblyInfoInputs.cache
+/Users/santiago/Projects/arrayPractice/arrayPractice/obj/Debug/net7.0/arrayPractice.AssemblyInfo.cs
+/Users/santiago/Projects/arrayPractice/arrayPractice/obj/Debug/net7.0/arrayPractice.csproj.CoreCompileInputs.cache
+/Users/santiago/Projects/arrayPractice/arrayPractice/bin/Debug/net7.0/arrayPractice
+/Users/santiago/Projects/arrayPractice/arrayPractice/bin/Debug/net7.0/arrayPractice.deps.json
+/Users/santiago/Projects/arrayPractice/arrayPractice/bin/Debug/net7.0/arrayPractice.runtimeconfig.json
+/Users/santiago/Projects/arrayPractice/arrayPractice/bin/Debug/net7.0/arrayPractice.dll
+/Users/santiago/Projects/arrayPractice/arrayPractice/bin/Debug/net7.0/arrayPractice.pdb
+/Users/santiago/Projects/arrayPractice/arrayPractice/obj/Debug/net7.0/arrayPractice.dll
+/Users/santiago/Projects/arrayPractice/arrayPractice/obj/Debug/net7.0/refint/arrayPractice.dll
+/Users/santiago/Projects/arrayPractice/arrayPractice/obj/Debug/net7.0/arrayPractice.pdb
+/Users/santiago/Projects/arrayPractice/arrayPractice/obj/Debug/net7.0/arrayPractice.genruntimeconfig.cache
+/Users/santiago/Projects/arrayPractice/arrayPractice/obj/Debug/net7.0/ref/arrayPractice.dll

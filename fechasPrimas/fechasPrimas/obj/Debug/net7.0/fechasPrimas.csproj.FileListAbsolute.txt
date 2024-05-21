@@ -1,0 +1,15 @@
+/Users/santiago/Projects/fechasPrimas/fechasPrimas/bin/Debug/net7.0/fechasPrimas
+/Users/santiago/Projects/fechasPrimas/fechasPrimas/bin/Debug/net7.0/fechasPrimas.deps.json
+/Users/santiago/Projects/fechasPrimas/fechasPrimas/bin/Debug/net7.0/fechasPrimas.runtimeconfig.json
+/Users/santiago/Projects/fechasPrimas/fechasPrimas/bin/Debug/net7.0/fechasPrimas.dll
+/Users/santiago/Projects/fechasPrimas/fechasPrimas/bin/Debug/net7.0/fechasPrimas.pdb
+/Users/santiago/Projects/fechasPrimas/fechasPrimas/obj/Debug/net7.0/fechasPrimas.csproj.AssemblyReference.cache
+/Users/santiago/Projects/fechasPrimas/fechasPrimas/obj/Debug/net7.0/fechasPrimas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/santiago/Projects/fechasPrimas/fechasPrimas/obj/Debug/net7.0/fechasPrimas.AssemblyInfoInputs.cache
+/Users/santiago/Projects/fechasPrimas/fechasPrimas/obj/Debug/net7.0/fechasPrimas.AssemblyInfo.cs
+/Users/santiago/Projects/fechasPrimas/fechasPrimas/obj/Debug/net7.0/fechasPrimas.csproj.CoreCompileInputs.cache
+/Users/santiago/Projects/fechasPrimas/fechasPrimas/obj/Debug/net7.0/fechasPrimas.dll
+/Users/santiago/Projects/fechasPrimas/fechasPrimas/obj/Debug/net7.0/refint/fechasPrimas.dll
+/Users/santiago/Projects/fechasPrimas/fechasPrimas/obj/Debug/net7.0/fechasPrimas.pdb
+/Users/santiago/Projects/fechasPrimas/fechasPrimas/obj/Debug/net7.0/fechasPrimas.genruntimeconfig.cache
+/Users/santiago/Projects/fechasPrimas/fechasPrimas/obj/Debug/net7.0/ref/fechasPrimas.dll
