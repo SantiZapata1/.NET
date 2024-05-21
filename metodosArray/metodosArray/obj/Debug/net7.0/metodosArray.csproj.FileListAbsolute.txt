@@ -1,0 +1,15 @@
+/Users/santiago/Projects/metodosArray/metodosArray/bin/Debug/net7.0/metodosArray
+/Users/santiago/Projects/metodosArray/metodosArray/bin/Debug/net7.0/metodosArray.deps.json
+/Users/santiago/Projects/metodosArray/metodosArray/bin/Debug/net7.0/metodosArray.runtimeconfig.json
+/Users/santiago/Projects/metodosArray/metodosArray/bin/Debug/net7.0/metodosArray.dll
+/Users/santiago/Projects/metodosArray/metodosArray/bin/Debug/net7.0/metodosArray.pdb
+/Users/santiago/Projects/metodosArray/metodosArray/obj/Debug/net7.0/metodosArray.csproj.AssemblyReference.cache
+/Users/santiago/Projects/metodosArray/metodosArray/obj/Debug/net7.0/metodosArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/santiago/Projects/metodosArray/metodosArray/obj/Debug/net7.0/metodosArray.AssemblyInfoInputs.cache
+/Users/santiago/Projects/metodosArray/metodosArray/obj/Debug/net7.0/metodosArray.AssemblyInfo.cs
+/Users/santiago/Projects/metodosArray/metodosArray/obj/Debug/net7.0/metodosArray.csproj.CoreCompileInputs.cache
+/Users/santiago/Projects/metodosArray/metodosArray/obj/Debug/net7.0/metodosArray.dll
+/Users/santiago/Projects/metodosArray/metodosArray/obj/Debug/net7.0/refint/metodosArray.dll
+/Users/santiago/Projects/metodosArray/metodosArray/obj/Debug/net7.0/metodosArray.pdb
+/Users/santiago/Projects/metodosArray/metodosArray/obj/Debug/net7.0/metodosArray.genruntimeconfig.cache
+/Users/santiago/Projects/metodosArray/metodosArray/obj/Debug/net7.0/ref/metodosArray.dll
