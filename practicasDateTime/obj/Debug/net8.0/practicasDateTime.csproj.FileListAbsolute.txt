@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\.NET\practicasDateTime\bin\Debug\net8.0\practicasDateTime.exe
+C:\Users\Usuario\Documents\.NET\practicasDateTime\bin\Debug\net8.0\practicasDateTime.deps.json
+C:\Users\Usuario\Documents\.NET\practicasDateTime\bin\Debug\net8.0\practicasDateTime.runtimeconfig.json
+C:\Users\Usuario\Documents\.NET\practicasDateTime\bin\Debug\net8.0\practicasDateTime.dll
+C:\Users\Usuario\Documents\.NET\practicasDateTime\bin\Debug\net8.0\practicasDateTime.pdb
+C:\Users\Usuario\Documents\.NET\practicasDateTime\obj\Debug\net8.0\practicasDateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\.NET\practicasDateTime\obj\Debug\net8.0\practicasDateTime.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\.NET\practicasDateTime\obj\Debug\net8.0\practicasDateTime.AssemblyInfo.cs
+C:\Users\Usuario\Documents\.NET\practicasDateTime\obj\Debug\net8.0\practicasDateTime.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\.NET\practicasDateTime\obj\Debug\net8.0\practicasDateTime.sourcelink.json
+C:\Users\Usuario\Documents\.NET\practicasDateTime\obj\Debug\net8.0\practicasDateTime.dll
+C:\Users\Usuario\Documents\.NET\practicasDateTime\obj\Debug\net8.0\refint\practicasDateTime.dll
+C:\Users\Usuario\Documents\.NET\practicasDateTime\obj\Debug\net8.0\practicasDateTime.pdb
+C:\Users\Usuario\Documents\.NET\practicasDateTime\obj\Debug\net8.0\practicasDateTime.genruntimeconfig.cache
+C:\Users\Usuario\Documents\.NET\practicasDateTime\obj\Debug\net8.0\ref\practicasDateTime.dll

@@ -23,4 +23,4 @@ Console.WriteLine("resultado suma: "+ resultAdd);
 Console.WriteLine("resultado resta: "+resultSub);
 Console.WriteLine("resultado multiplicacion: "+resultMul);
 Console.WriteLine("resultado division: "+resultDiv);
-
+Console.ReadKey();

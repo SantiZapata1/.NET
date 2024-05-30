@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\.NET\manejoString\bin\Debug\net8.0\manejoString.exe
+C:\Users\Usuario\Documents\.NET\manejoString\bin\Debug\net8.0\manejoString.deps.json
+C:\Users\Usuario\Documents\.NET\manejoString\bin\Debug\net8.0\manejoString.runtimeconfig.json
+C:\Users\Usuario\Documents\.NET\manejoString\bin\Debug\net8.0\manejoString.dll
+C:\Users\Usuario\Documents\.NET\manejoString\bin\Debug\net8.0\manejoString.pdb
+C:\Users\Usuario\Documents\.NET\manejoString\obj\Debug\net8.0\manejoString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\.NET\manejoString\obj\Debug\net8.0\manejoString.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\.NET\manejoString\obj\Debug\net8.0\manejoString.AssemblyInfo.cs
+C:\Users\Usuario\Documents\.NET\manejoString\obj\Debug\net8.0\manejoString.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\.NET\manejoString\obj\Debug\net8.0\manejoString.sourcelink.json
+C:\Users\Usuario\Documents\.NET\manejoString\obj\Debug\net8.0\manejoString.dll
+C:\Users\Usuario\Documents\.NET\manejoString\obj\Debug\net8.0\refint\manejoString.dll
+C:\Users\Usuario\Documents\.NET\manejoString\obj\Debug\net8.0\manejoString.pdb
+C:\Users\Usuario\Documents\.NET\manejoString\obj\Debug\net8.0\manejoString.genruntimeconfig.cache
+C:\Users\Usuario\Documents\.NET\manejoString\obj\Debug\net8.0\ref\manejoString.dll
