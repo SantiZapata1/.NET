@@ -42,6 +42,7 @@ namespace WinFormsApp1
             label4 = new Label();
             label5 = new Label();
             button5 = new Button();
+            button6 = new Button();
             SuspendLayout();
             // 
             // button1
@@ -149,11 +150,21 @@ namespace WinFormsApp1
             button5.UseVisualStyleBackColor = true;
             button5.Click += button5_Click;
             // 
+            // button6
+            // 
+            button6.Location = new Point(56, 64);
+            button6.Name = "button6";
+            button6.Size = new Size(145, 78);
+            button6.TabIndex = 10;
+            button6.Text = "button6";
+            button6.UseVisualStyleBackColor = true;
+            // 
             // Simon
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1202, 502);
+            Controls.Add(button6);
             Controls.Add(button5);
             Controls.Add(label5);
             Controls.Add(label4);
@@ -187,5 +198,6 @@ namespace WinFormsApp1
         private Label label4;
         private Label label5;
         private Button button5;
+        private Button button6;
     }
 }

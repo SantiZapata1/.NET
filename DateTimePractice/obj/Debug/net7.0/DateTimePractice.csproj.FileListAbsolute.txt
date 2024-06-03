@@ -1,0 +1,15 @@
+/Users/santiago/Projects/DateTimePractice/DateTimePractice/bin/Debug/net7.0/DateTimePractice
+/Users/santiago/Projects/DateTimePractice/DateTimePractice/bin/Debug/net7.0/DateTimePractice.deps.json
+/Users/santiago/Projects/DateTimePractice/DateTimePractice/bin/Debug/net7.0/DateTimePractice.runtimeconfig.json
+/Users/santiago/Projects/DateTimePractice/DateTimePractice/bin/Debug/net7.0/DateTimePractice.dll
+/Users/santiago/Projects/DateTimePractice/DateTimePractice/bin/Debug/net7.0/DateTimePractice.pdb
+/Users/santiago/Projects/DateTimePractice/DateTimePractice/obj/Debug/net7.0/DateTimePractice.csproj.AssemblyReference.cache
+/Users/santiago/Projects/DateTimePractice/DateTimePractice/obj/Debug/net7.0/DateTimePractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/santiago/Projects/DateTimePractice/DateTimePractice/obj/Debug/net7.0/DateTimePractice.AssemblyInfoInputs.cache
+/Users/santiago/Projects/DateTimePractice/DateTimePractice/obj/Debug/net7.0/DateTimePractice.AssemblyInfo.cs
+/Users/santiago/Projects/DateTimePractice/DateTimePractice/obj/Debug/net7.0/DateTimePractice.csproj.CoreCompileInputs.cache
+/Users/santiago/Projects/DateTimePractice/DateTimePractice/obj/Debug/net7.0/DateTimePractice.dll
+/Users/santiago/Projects/DateTimePractice/DateTimePractice/obj/Debug/net7.0/refint/DateTimePractice.dll
+/Users/santiago/Projects/DateTimePractice/DateTimePractice/obj/Debug/net7.0/DateTimePractice.pdb
+/Users/santiago/Projects/DateTimePractice/DateTimePractice/obj/Debug/net7.0/DateTimePractice.genruntimeconfig.cache
+/Users/santiago/Projects/DateTimePractice/DateTimePractice/obj/Debug/net7.0/ref/DateTimePractice.dll

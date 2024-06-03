@@ -1,0 +1,15 @@
+/Users/santiago/Projects/countsBank/countsBank/bin/Debug/net7.0/countsBank
+/Users/santiago/Projects/countsBank/countsBank/bin/Debug/net7.0/countsBank.deps.json
+/Users/santiago/Projects/countsBank/countsBank/bin/Debug/net7.0/countsBank.runtimeconfig.json
+/Users/santiago/Projects/countsBank/countsBank/bin/Debug/net7.0/countsBank.dll
+/Users/santiago/Projects/countsBank/countsBank/bin/Debug/net7.0/countsBank.pdb
+/Users/santiago/Projects/countsBank/countsBank/obj/Debug/net7.0/countsBank.csproj.AssemblyReference.cache
+/Users/santiago/Projects/countsBank/countsBank/obj/Debug/net7.0/countsBank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/santiago/Projects/countsBank/countsBank/obj/Debug/net7.0/countsBank.AssemblyInfoInputs.cache
+/Users/santiago/Projects/countsBank/countsBank/obj/Debug/net7.0/countsBank.AssemblyInfo.cs
+/Users/santiago/Projects/countsBank/countsBank/obj/Debug/net7.0/countsBank.csproj.CoreCompileInputs.cache
+/Users/santiago/Projects/countsBank/countsBank/obj/Debug/net7.0/countsBank.dll
+/Users/santiago/Projects/countsBank/countsBank/obj/Debug/net7.0/refint/countsBank.dll
+/Users/santiago/Projects/countsBank/countsBank/obj/Debug/net7.0/countsBank.pdb
+/Users/santiago/Projects/countsBank/countsBank/obj/Debug/net7.0/countsBank.genruntimeconfig.cache
+/Users/santiago/Projects/countsBank/countsBank/obj/Debug/net7.0/ref/countsBank.dll

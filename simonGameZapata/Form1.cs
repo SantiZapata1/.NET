@@ -14,7 +14,11 @@ namespace WinFormsApp1
         private static extern bool FreeConsole();
 
 
-        private void Form1_Load(object sender, EventArgs e) { }
+        private void Form1_Load(object sender, EventArgs e) {
+        
+        
+        
+        }
 
 
         //constructor
@@ -263,6 +267,7 @@ namespace WinFormsApp1
             //ejecutamos el metodo para jugar al Simon
 
             if (juegoOn == true)jugar();
+
             else label5.Text = "inicie el juego";
 
         }

@@ -1,0 +1,15 @@
+/Users/santiago/Projects/Arrays/Arrays/obj/Debug/net7.0/Arrays.csproj.AssemblyReference.cache
+/Users/santiago/Projects/Arrays/Arrays/obj/Debug/net7.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/santiago/Projects/Arrays/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfoInputs.cache
+/Users/santiago/Projects/Arrays/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfo.cs
+/Users/santiago/Projects/Arrays/Arrays/obj/Debug/net7.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/santiago/Projects/Arrays/Arrays/bin/Debug/net7.0/Arrays
+/Users/santiago/Projects/Arrays/Arrays/bin/Debug/net7.0/Arrays.deps.json
+/Users/santiago/Projects/Arrays/Arrays/bin/Debug/net7.0/Arrays.runtimeconfig.json
+/Users/santiago/Projects/Arrays/Arrays/bin/Debug/net7.0/Arrays.dll
+/Users/santiago/Projects/Arrays/Arrays/bin/Debug/net7.0/Arrays.pdb
+/Users/santiago/Projects/Arrays/Arrays/obj/Debug/net7.0/Arrays.dll
+/Users/santiago/Projects/Arrays/Arrays/obj/Debug/net7.0/refint/Arrays.dll
+/Users/santiago/Projects/Arrays/Arrays/obj/Debug/net7.0/Arrays.pdb
+/Users/santiago/Projects/Arrays/Arrays/obj/Debug/net7.0/Arrays.genruntimeconfig.cache
+/Users/santiago/Projects/Arrays/Arrays/obj/Debug/net7.0/ref/Arrays.dll

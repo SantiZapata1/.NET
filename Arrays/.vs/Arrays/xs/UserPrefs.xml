@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{206E7B7E-6E6B-49AD-B5AB-8535AF1FFDED}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Arrays PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../countsBank/countsBank/Program.cs">
+    <Files>
+      <File FileName="Arrays/Program.cs" Line="33" Column="34" />
+      <File FileName="../countsBank/countsBank/Program.cs" Line="14" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Arrays" expanded="True">
+            <Node name="Arrays" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

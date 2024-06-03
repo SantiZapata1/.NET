@@ -1,0 +1,15 @@
+/Users/santiago/Projects/cifradoCesar/cifradoCesar/bin/Debug/net7.0/cifradoCesar
+/Users/santiago/Projects/cifradoCesar/cifradoCesar/bin/Debug/net7.0/cifradoCesar.deps.json
+/Users/santiago/Projects/cifradoCesar/cifradoCesar/bin/Debug/net7.0/cifradoCesar.runtimeconfig.json
+/Users/santiago/Projects/cifradoCesar/cifradoCesar/bin/Debug/net7.0/cifradoCesar.dll
+/Users/santiago/Projects/cifradoCesar/cifradoCesar/bin/Debug/net7.0/cifradoCesar.pdb
+/Users/santiago/Projects/cifradoCesar/cifradoCesar/obj/Debug/net7.0/cifradoCesar.csproj.AssemblyReference.cache
+/Users/santiago/Projects/cifradoCesar/cifradoCesar/obj/Debug/net7.0/cifradoCesar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/santiago/Projects/cifradoCesar/cifradoCesar/obj/Debug/net7.0/cifradoCesar.AssemblyInfoInputs.cache
+/Users/santiago/Projects/cifradoCesar/cifradoCesar/obj/Debug/net7.0/cifradoCesar.AssemblyInfo.cs
+/Users/santiago/Projects/cifradoCesar/cifradoCesar/obj/Debug/net7.0/cifradoCesar.csproj.CoreCompileInputs.cache
+/Users/santiago/Projects/cifradoCesar/cifradoCesar/obj/Debug/net7.0/cifradoCesar.dll
+/Users/santiago/Projects/cifradoCesar/cifradoCesar/obj/Debug/net7.0/refint/cifradoCesar.dll
+/Users/santiago/Projects/cifradoCesar/cifradoCesar/obj/Debug/net7.0/cifradoCesar.pdb
+/Users/santiago/Projects/cifradoCesar/cifradoCesar/obj/Debug/net7.0/cifradoCesar.genruntimeconfig.cache
+/Users/santiago/Projects/cifradoCesar/cifradoCesar/obj/Debug/net7.0/ref/cifradoCesar.dll

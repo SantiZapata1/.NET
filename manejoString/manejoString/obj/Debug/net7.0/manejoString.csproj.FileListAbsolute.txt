@@ -1,0 +1,15 @@
+/Users/santiago/Projects/manejoString/manejoString/bin/Debug/net7.0/manejoString
+/Users/santiago/Projects/manejoString/manejoString/bin/Debug/net7.0/manejoString.deps.json
+/Users/santiago/Projects/manejoString/manejoString/bin/Debug/net7.0/manejoString.runtimeconfig.json
+/Users/santiago/Projects/manejoString/manejoString/bin/Debug/net7.0/manejoString.dll
+/Users/santiago/Projects/manejoString/manejoString/bin/Debug/net7.0/manejoString.pdb
+/Users/santiago/Projects/manejoString/manejoString/obj/Debug/net7.0/manejoString.csproj.AssemblyReference.cache
+/Users/santiago/Projects/manejoString/manejoString/obj/Debug/net7.0/manejoString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/santiago/Projects/manejoString/manejoString/obj/Debug/net7.0/manejoString.AssemblyInfoInputs.cache
+/Users/santiago/Projects/manejoString/manejoString/obj/Debug/net7.0/manejoString.AssemblyInfo.cs
+/Users/santiago/Projects/manejoString/manejoString/obj/Debug/net7.0/manejoString.csproj.CoreCompileInputs.cache
+/Users/santiago/Projects/manejoString/manejoString/obj/Debug/net7.0/manejoString.dll
+/Users/santiago/Projects/manejoString/manejoString/obj/Debug/net7.0/refint/manejoString.dll
+/Users/santiago/Projects/manejoString/manejoString/obj/Debug/net7.0/manejoString.pdb
+/Users/santiago/Projects/manejoString/manejoString/obj/Debug/net7.0/manejoString.genruntimeconfig.cache
+/Users/santiago/Projects/manejoString/manejoString/obj/Debug/net7.0/ref/manejoString.dll
