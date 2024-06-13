@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\.NET\pruebaArchivos\bin\Debug\net8.0\pruebaArchivos.exe
+C:\Users\Usuario\Documents\.NET\pruebaArchivos\bin\Debug\net8.0\pruebaArchivos.deps.json
+C:\Users\Usuario\Documents\.NET\pruebaArchivos\bin\Debug\net8.0\pruebaArchivos.runtimeconfig.json
+C:\Users\Usuario\Documents\.NET\pruebaArchivos\bin\Debug\net8.0\pruebaArchivos.dll
+C:\Users\Usuario\Documents\.NET\pruebaArchivos\bin\Debug\net8.0\pruebaArchivos.pdb
+C:\Users\Usuario\Documents\.NET\pruebaArchivos\obj\Debug\net8.0\pruebaArchivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\.NET\pruebaArchivos\obj\Debug\net8.0\pruebaArchivos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\.NET\pruebaArchivos\obj\Debug\net8.0\pruebaArchivos.AssemblyInfo.cs
+C:\Users\Usuario\Documents\.NET\pruebaArchivos\obj\Debug\net8.0\pruebaArchivos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\.NET\pruebaArchivos\obj\Debug\net8.0\pruebaArchivos.sourcelink.json
+C:\Users\Usuario\Documents\.NET\pruebaArchivos\obj\Debug\net8.0\pruebaArchivos.dll
+C:\Users\Usuario\Documents\.NET\pruebaArchivos\obj\Debug\net8.0\refint\pruebaArchivos.dll
+C:\Users\Usuario\Documents\.NET\pruebaArchivos\obj\Debug\net8.0\pruebaArchivos.pdb
+C:\Users\Usuario\Documents\.NET\pruebaArchivos\obj\Debug\net8.0\pruebaArchivos.genruntimeconfig.cache
+C:\Users\Usuario\Documents\.NET\pruebaArchivos\obj\Debug\net8.0\ref\pruebaArchivos.dll
